@@ -1,0 +1,22 @@
+#total {
+
+background-color: chartreuse;
+}
+
+#titulo {
+ text-align: center;
+}
+
+
+.libros {
+    color: aqua;
+    
+}
+
+#libro {
+    box-sizing: border-box;
+    margin: 0px 0px 0px 0px;
+    background-color: blueviolet;
+    
+}
+
