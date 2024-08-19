@@ -1,4 +1,4 @@
-/* styles.css */
+styles.css
 
 /* Reset de márgenes y paddings */
 /* * {
@@ -9,7 +9,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    height: 2000px;
+    height: 100vh;
     margin: 0%;
 }
 
@@ -115,6 +115,11 @@ main div {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         text-align: center;
         background-color: #3B5DAC;
+     
  
         
     }
+
+.pie-pagina {
+    padding: 1rem 0 ;
+}
